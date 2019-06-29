@@ -1,0 +1,9 @@
+#+SEQ_TODO: TODO(t) WAIT(w) PROJ(p) MAYBE(m) | DONE(d) SKIP(s)
+memo:org-archive-subtree(C-c C-x C-s)
+
+** 健康(心の健康、身体の健康)
+* TODO 蛇口の場所を探索する
+    :LOGBOOK:
+    - Added: [2019-05-31 Fri 10:03]
+    :END:
+

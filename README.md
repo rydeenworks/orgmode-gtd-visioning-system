@@ -88,6 +88,7 @@ Get Things Doneという言葉から集中してどんどんタスクを片付�
 
 org-captureで `r` キーを押すと次の画面が表示されます。
 ![org-capture-review](https://rydeenworks.github.io/assets/org-capture-review.png)
+
 `C-c C-c` とキー入力すると `review.org` にレビューチェック表が挿入されます。
 
 参考としてレビューチェック表の内容を以下に掲載します。
@@ -163,6 +164,7 @@ org-captureで `r` キーを押すと次の画面が表示されます。
 
 org-captureで `j` キーを押すと次の画面が表示されます。
 ![org-capture-journal](https://rydeenworks.github.io/assets/org-capture-journal.png)
+
 `C-c C-c` とキー入力すると `journal.org` にレビューチェック表が挿入されます。
 
 # 参照

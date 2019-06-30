@@ -1,4 +1,4 @@
-# 私生活向けorgmodeによるGTDの使い方
+# [私生活向けorgmodeによるGTDの使い方](https://rydeenworks.github.io/2019/06/30/how-to-use-orgmode)
 
 私は自宅PCでも会社PCでもorgmodeによるGTDを運用していますが、それぞれの使い方は異なります。
 
